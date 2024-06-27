@@ -2,7 +2,8 @@
   "name": "nodejs",
   "version": "1.0.0",
   "workspaces": [
-    "front-end"
+    "front-end",
+    "back-end"
   ],
   "description": "",
   "main": "index.js",
